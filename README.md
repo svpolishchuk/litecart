@@ -1,0 +1,2 @@
+# litecart
+Java + TestNG + Allure
